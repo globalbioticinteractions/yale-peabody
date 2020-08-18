@@ -2,6 +2,6 @@
 
 ## Yale University Peabody Museum Collections Data Portal
 
-http://ipt.peabody.yale.edu/ipt
+[http://ipt.peabody.yale.edu/ipt](http://ipt.peabody.yale.edu/ipt)
 
 This repository contains configuration to help Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) find and index biotic association records in the biological collections of the [Yale University Peabody Museum](http://www.peabody.yale.edu/).
