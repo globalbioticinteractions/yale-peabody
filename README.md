@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/yale-peabody.svg)](https://travis-ci.org/globalbioticinteractions/yale-peabody) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/yale-peabody)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/yale-peabody) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/yale-peabody.svg)](https://travis-ci.com/globalbioticinteractions/yale-peabody) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/yale-peabody)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/yale-peabody) 
 
 ## Yale University Peabody Museum Collections Data Portal
 
