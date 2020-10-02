@@ -1,2 +1,6 @@
 provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
 symbiont,,symbiotically interacts with,http://purl.obolibrary.org/obo/RO_0002440
+on same slide,,ecologically co-occurs with,http://purl.obolibrary.org/obo/RO_0008506
+prey,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+predator,,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458
+parasite,,has parasite,http://purl.obolibrary.org/obo/RO_0002445
